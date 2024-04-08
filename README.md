@@ -5,6 +5,6 @@
 
 
 
-![](https://raw.githubusercontent.com/lkx000/lkx000/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/lkx000/lkx000/main/github-contribution-grid-snake.svg)
 
 
